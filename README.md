@@ -1,7 +1,7 @@
-Engineering materials
+Documentacion de ingenieria/Mater Systems
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+Este repositorio contiene todos los recursos requeridos para construir a "Mia", el robot autonomo creado por el equipo "Mater Systems" que participara en la categoria Futuros ingenieros en la WRO en la temporada 2025
 
 ## Content
 
