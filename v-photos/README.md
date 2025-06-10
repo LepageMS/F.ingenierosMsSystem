@@ -7,7 +7,7 @@ izquierda
 
 derecha 
 
-![Derecha](right.jpg)
+![Derecha](right1.jpg)
 
 delante abajo
 
