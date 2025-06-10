@@ -7,9 +7,14 @@ izquierda
 
 derecha 
 
+![Derecha](right.jpg)
+
 delante abajo
 
-detras abajo
+![Delante abajo](frontdown.jpg)
+
+detras arriba
+
 
 abajo
 
