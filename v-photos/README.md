@@ -3,7 +3,7 @@ Fotos de Mia
 
 izquierda
 
-![Izquierda](izquierda.jpg)
+![Izquierda](left.jpg)
 
 derecha 
 
