@@ -2,6 +2,7 @@ Fotos de Mia
 ====
 
 izquierda
+
 ![Izquierda](izquierda.jpg)
 
 derecha 
