@@ -13,13 +13,22 @@ delante abajo
 
 ![Delante abajo](frontdown.jpg)
 
-detras arriba
+detras abajo
 
+![Detras abajo](backdown.jpg)
 
 abajo
 
+![abajo](down.jpg)
+
 arriba
+
+![arriba](Up.jpg)
 
 frente
 
+![delante](front.jpg)
+
 detras 
+
+![detras](back.jpg)
