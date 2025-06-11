@@ -14,7 +14,15 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 * ULTRASONIDO
 * MIA tiene un sensor de ultrasonido que le permite medir distancias y detectar obstaculos en su entorno, ayudandole a moverse de manera segura y eficiente, ajustando su direccion segun el espacio disponible
 * MODULO DE VELOCIDAD
-*                                                                                                                                                                                                                                                                                                                                    
+* MIA tiene un modulo de velocidad para calcular cuan rapido se desplaza en diferentes situaciones
+* GIROSCOPIO
+* MIA tiene el giroscopio para mantener la estabilidad y la orientacion, para lograr llegar de manera precisa hacia su objetivo
+* SENSOR DE COLOR
+* MIA tiene un sensor de color para detectar y distinguir diferentes colores en su entorno. Esto le permite realizar tareas como identificar objetos o hasta seguir lineas de colores especificos
+* DOS MOTORES DC
+* sirven para proporcionar movimiento, permitiendo que el robot se desplace y gire
+* ARDUINO 1r4
+* sirve para prototipar proyectos electronicos y roboticos, controlando sensores y motores                                                                                                                                                                                                                                                                                                                                     
 * `src` contains code of control software for all components which were programmed to participate in the competition
 * `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
