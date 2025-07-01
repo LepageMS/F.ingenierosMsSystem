@@ -56,7 +56,7 @@ Arriba
 El software de control del vehículo consta de varios módulos funcionales, que corresponden directamente a los componentes electromecánicos conectados al Hub SPIKE. Este hub actúa como el controlador central, coordinando la lectura de sensores y el accionamiento de los motores.                                                                                                                                            
 
 
-## Introduccion
+## Sobre MIA
 
 Módulos del Código
  1. Módulo de Sensores de Ultrasonido:
