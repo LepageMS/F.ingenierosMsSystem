@@ -22,6 +22,7 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 * MIA contiene 2 motores con diferentes funciones
 * 1 para avanzar y el otro para direccionar
 
+
                                                                                                                                                                                                                                                                                                                                
 * `src` contains code of control software for all components which were programmed to participate in the competition
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
