@@ -9,20 +9,15 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 * `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
 * `video` contains the video.md file with the link to a video where driving demonstration exists
 * Mecanica
-* SENSOR INFRARROJO
-* MIA utiliza el sensor de infrarrojo para detectar objetos y evitar choques, seguir lineas en el suelo y medir la distancia a objetos cercanos, reaccionando rapidamente ante cualquier cambio a su entorno.
-* ULTRASONIDO
-* MIA tiene un sensor de ultrasonido que le permite medir distancias y detectar obstaculos en su entorno, ayudandole a moverse de manera segura y eficiente, ajustando su direccion segun el espacio disponible
-* MODULO DE VELOCIDAD
-* MIA tiene un modulo de velocidad para calcular cuan rapido se desplaza en diferentes situaciones
-* GIROSCOPIO
-* MIA tiene el giroscopio para mantener la estabilidad y la orientacion, para lograr llegar de manera precisa hacia su objetivo
+*3 ULTRASONIDOS
+* MIA tiene un sensor de ultrasonido que le permite medir distancias y detectar obstaculos en su entorno, ayudandole a moverse de manera segura y eficiente, ajustando su direccion segun el espacio disponible.
 * SENSOR DE COLOR
 * MIA tiene un sensor de color para detectar y distinguir diferentes colores en su entorno. Esto le permite realizar tareas como identificar objetos o hasta seguir lineas de colores especificos
-* DOS MOTORES DC
-* sirven para proporcionar movimiento, permitiendo que el robot se desplace y gire
-* ARDUINO 1r4
-* sirve para prototipar proyectos electronicos y roboticos, controlando sensores y motores                                                                                                                                                                                                                                                                                                                                     
+* 2 MOTORES MEDIANOS DE SPIKE
+* MIA contiene 2 motores con diferentes funciones
+* 1 para avanzar y el otro para direccionar
+
+                                                                                                                                                                                                                                                                                                                               
 * `src` contains code of control software for all components which were programmed to participate in the competition
 * `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
