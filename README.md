@@ -8,11 +8,15 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 * `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
 * `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
 * `video` contains the video.md file with the link to a video where driving demonstration exists
-* Mecanica
+  
+* MECANICA
+  
 *3 ULTRASONIDOS
 * MIA tiene un sensor de ultrasonido que le permite medir distancias y detectar obstaculos en su entorno, ayudandole a moverse de manera segura y eficiente, ajustando su direccion segun el espacio disponible.
+  
 * SENSOR DE COLOR
-* MIA tiene un sensor de color para detectar y distinguir diferentes colores en su entorno. Esto le permite realizar tareas como identificar objetos o hasta seguir lineas de colores especificos
+* MIA tiene un sensor de color para detectar y distinguir diferentes colores en su entorno. Esto le permite realizar tareas como identificar objetos o hasta seguir lineas de colores especificos.
+  
 * 2 MOTORES MEDIANOS DE SPIKE
 * MIA contiene 2 motores con diferentes funciones
 * 1 para avanzar y el otro para direccionar
