@@ -12,19 +12,18 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 * MECANICA
   
 
-3 ULTRASONIDOS
+-3 ULTRASONIDOS
 * MIA tiene un sensor de ultrasonido que le permite medir distancias y detectar obstaculos en su entorno, ayudandole a moverse de manera segura y eficiente, ajustando su direccion segun el espacio disponible.
   
-SENSOR DE COLOR
+-SENSOR DE COLOR
 * MIA tiene un sensor de color para detectar y distinguir diferentes colores en su entorno. Esto le permite realizar tareas como identificar objetos o hasta seguir lineas de colores especificos.
   
-2 MOTORES MEDIANOS DE SPIKE
+-2 MOTORES MEDIANOS DE SPIKE
 * MIA contiene 2 motores con diferentes funciones
 * 1 para avanzar y el otro para direccionar
 
                                                                                                                                                                                                                                                                                                                                
 * `src` contains code of control software for all components which were programmed to participate in the competition
-* `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
 ## Introduction
