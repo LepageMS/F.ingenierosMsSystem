@@ -6,6 +6,7 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 ## Content
 
 * `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
+![equipo](t-photos/IMG_3509.png)
 * `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
 * `video` contains the video.md file with the link to a video where driving demonstration exists
   
