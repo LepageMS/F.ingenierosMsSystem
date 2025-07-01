@@ -5,12 +5,35 @@ Este repositorio contiene todos los recursos requeridos para construir a "Mia", 
 
 ## Content
 
-* `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
+* `t-photos` 
 
 ![equipo](t-photos/IMG_3509.JPG)
 
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
-* `video` contains the video.md file with the link to a video where driving demonstration exists
+* `v-photos`
+
+  Izquierda
+
+![Izquierda](v-photos/1.jpg)
+
+Derecha 
+
+![Derecha](v-photos/2.jpg)
+
+Frente
+
+![Delante abajo](v-photos/4.jpg)
+
+Detras
+
+![Detras abajo](v-photos/5.jpg)
+
+Abajo
+
+![abajo](v-photos/3.jpg)
+
+Arriba
+
+![arriba](v-photos/6.jpg)
   
 * MECANICA
   
