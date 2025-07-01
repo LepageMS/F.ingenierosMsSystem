@@ -1,34 +1,27 @@
 Fotos de Mia
 ====
 
-izquierda
+Izquierda
 
-![Izquierda](left.jpg)
+![Izquierda](1.jpg)
 
-derecha 
+Derecha 
 
-![Derecha](right1.jpg)
+![Derecha](2.jpg)
 
-delante abajo
+Frente
 
-![Delante abajo](frontdown.jpg)
+![Delante abajo](4.jpg)
 
-detras abajo
+Detras
 
-![Detras abajo](backdown.jpg)
+![Detras abajo](5.jpg)
 
-abajo
+Abajo
 
-![abajo](down.jpg)
+![abajo](3.jpg)
 
-arriba
+Arriba
 
-![arriba](Up.jpg)
+![arriba](6.jpg)
 
-frente
-
-![delante](front.jpg)
-
-detras 
-
-![detras](back.jpg)
